@@ -1,0 +1,31 @@
+Level 3-3356
+Swisscom-3303
+Netflix-40027
+Facebook-32934
+Google-15169
+Amazon-16509
+Telia-1299
+Akamai-32787
+Cloudflare-13335
+Microsoft-8075
+Yahoo-10310
+Switch-559
+Princeton University-88
+Spotify-8403
+Harvard-11
+Verizon-701
+Qwest-209
+Cogent-174
+Frontier-5650
+Baidu-38365
+Wikimedia Foundation-14907
+Twitter-13414
+Twitch-46489
+Comcast-7922
+Init7-13030
+Telstra-4637
+Alibaba-45102
+Deutsche Telekom-3320
+Time Warner Cable Internet-7843
+Sprint-1239
+Orange-5511
